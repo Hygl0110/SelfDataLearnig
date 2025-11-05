@@ -1,2 +1,1 @@
-# SelfDataLearnig
-Aqui pongo los codigos que haga durante las clases de dataScience
+This exercise, performed in my current job as a maintenance assistant in a manufacturing plant, aimed to convert a wide-format table into two long-format tables to facilitate subsequent analysis using PowerBL.
